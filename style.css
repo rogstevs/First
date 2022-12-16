@@ -21,7 +21,7 @@ main {
 
   display: flex;
   flex-flow: row wrap;
-  align-items: center;
+
   justify-content: center;
 }
 .tittle {
@@ -30,7 +30,6 @@ main {
   font-family: Arial, Helvetica, sans-serif;
   font-size: calc(3rem + 1vw);
   text-shadow: 3px 3px 3px rgb(105, 29, 175);
-  align-self: flex-start;
 }
 
 .nav {
